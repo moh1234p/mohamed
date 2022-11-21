@@ -27,7 +27,7 @@ body {
 .btn::before {
   content: "";
   position: absolute;
-  background-color: orangered;
+  background-color: bluered;
   width: 10;
   height: 12;
   left: var(--xPos);
