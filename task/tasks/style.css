@@ -28,8 +28,8 @@ body {
   content: "";
   position: absolute;
   background-color: orangered;
-  width: 0;
-  height: 0;
+  width: 10;
+  height: 12;
   left: var(--xPos);
   top: var(--yPos);
   transform: translate(-50%, -50%);
